@@ -5,6 +5,7 @@ This is a trivial Java EE 7 sample.
 
 This is hotfix
 EXAMPLETEST
+efdgdxhgdrxht
 
 . Download WildFly 8.2 from
   http://download.jboss.org/wildfly/8.2.0.Final/wildfly-8.2.0.Final.zip
